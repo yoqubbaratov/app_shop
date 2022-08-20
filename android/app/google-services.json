@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015567110821",
+    "project_id": "app-shop-12b37",
+    "storage_bucket": "app-shop-12b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015567110821:android:fefe631297d325db4db34c",
+        "android_client_info": {
+          "package_name": "com.alix.app_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015567110821-ji5j1tlfaqi8a92ehk6n3vtftbs3rrmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXYAaw-UwKVSO9Hae2CWP_BggjPdGITqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015567110821-ji5j1tlfaqi8a92ehk6n3vtftbs3rrmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
